@@ -1,4 +1,4 @@
-DEPS= Jodi
+DEPS= New
 
 compile: main.c 
 	 gcc main.c -o $(DEPS)
