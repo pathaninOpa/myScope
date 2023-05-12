@@ -1,4 +1,4 @@
-DEPS= Ne
+DEPS= Tae
 
 compile: main.c 
 	 gcc main.c -o $(DEPS)
